@@ -285,12 +285,3 @@ K = 2
 推論とアクションを組み合わせて、順を追って考えることで、質問応答や論理的な推論タスクの解決の精度を上げる手法です。
 
 # 3. その他知っておくと便利な Tips
-
-# 4. 参考リンク
-
-Ref メモ（後で消す
-
-- [https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md)
-- https://github.com/f/awesome-chatgpt-prompts
-- [https://qiita.com/sonesuke/items/981925cfcc610a602e94](https://qiita.com/sonesuke/items/981925cfcc610a602e94)
--
