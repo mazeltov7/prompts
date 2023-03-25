@@ -256,10 +256,13 @@ GM will suggest 4 choices for every conversation that player might say. Also GM 
 進行度:0、危険度:80、好感度:50、学内生存者数:200、学内ゾンビ数:800、ゲーム難易度: 理不尽
 ```
 
-## プロンプトの作成
+## プロンプトの作成&改善
+
+[PromptGenerator](https://www.skool.com/chatgpt/promptgenerator?p=1e5ede93)
+・ただ、なりきり系に関しては、下記ではうまくワークしない（ex; 織田信長みたいに話す bot を作りたいです etc）
 
 ```
-
+I want you to become my Prompt Creator. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used by you, ChatGPT. You will follow the following process: 1. Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps. 2. Based on my input, you will generate 3 sections. a) Revised prompt (provide your rewritten prompt. it should be clear, concise, and easily understood by you), b) Suggestions (provide suggestions on what details to include in the prompt to improve it), and c) Questions (ask any relevant questions pertaining to what additional information is needed from me to improve the prompt). 3. We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until it's complete.
 ```
 
 ## プロンプトの改善
@@ -333,9 +336,9 @@ Q2: bbbbb
 Q3: ccccc
 
 上記の質問に対して、下記のように回答してください。
-Q {$number} : {$question_text}
+Q {number} : {question_text}
 rational: let's think step by step
-A {$number}: {$answer_text}
+A {number}: {answer_text}
 ```
 
 みたいな。
