@@ -284,8 +284,6 @@ K = 2
 
 推論とアクションを組み合わせて、順を追って考えることで、質問応答や論理的な推論タスクの解決の精度を上げる手法です。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/842ad415-744e-405b-a4dd-6fb5c1b9b1f0/Untitled.png)
-
 # 3. その他知っておくと便利な Tips
 
 # 4. 参考リンク
