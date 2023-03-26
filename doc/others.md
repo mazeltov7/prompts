@@ -15,3 +15,9 @@
 - https://github.com/f/awesome-chatgpt-prompts
 - [https://qiita.com/sonesuke/items/981925cfcc610a602e94](https://qiita.com/sonesuke/items/981925cfcc610a602e94)
 -
+
+## Thoughts
+
+- ハルシネーションもあるので、「90 点の出来で OK なものは LLM」、「91 点以上それ以上必要なものにはまだ使えない」みたいな形は実感としてもあり得そう。
+  - 大枠やたたき台を LLM で準備して、修正・調整を一手でやる、みたいなのはかなりハマる。
+- 機械学習エンジニアが「各現場向けにカスタマイズされた LLM ベースの ML プロダクト」を作る必要性
