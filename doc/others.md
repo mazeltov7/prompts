@@ -9,6 +9,10 @@
     - また、陳述記憶はエピソード記憶と意味記憶に分けられます。○○ に行った、○○ の話をした、というようなエピソード記憶は 1 日単位のサマリ用の embeddings を保管する vector store に格納すると良さそうです。
     - また、意味記憶は知識や概念についての記憶であり、人物や物事について上記とはことなる vector store に格納するべきでしょう。
 
+- 「いつもお世話になってます。」とか丁寧にプロンプト入れると、GPT も返答が丁寧になる説（雑だと、候補 1 個しか返さないところ、個数指示しなくても丁寧にいうと 10 個候補出すなど）
+
+  - [ChatGPT4 はなぜ「お世話になってます」を文面に付けると複数の提案をするのか　-単語と意味と語彙-](https://note.com/nouhuhoumei/n/n1273c335406e?fbclid=IwAR3zarByaRFz9HjpexGY9TTpkiHvXWl5bnkMfdw13NWFlUAY_xrV34KOheY)
+
 - https://github.com/dair-ai/Prompt-Engineering-Guide
 -
 - [https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md)

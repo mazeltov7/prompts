@@ -4,9 +4,9 @@
 
 プロンプト自体は様々な書き方ができますが、大まかに下記の構成になっていることが多いです。
 
-・命令（Instructions）
-・文脈（Context）
-・入力データ（Input Data）
+・命令（Instructions）  
+・文脈（Context）  
+・入力データ（Input Data）  
 ・出力指標（Output indicator）
 
 例 1：
