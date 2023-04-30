@@ -20,6 +20,8 @@
 - [https://qiita.com/sonesuke/items/981925cfcc610a602e94](https://qiita.com/sonesuke/items/981925cfcc610a602e94)
 -
 
+- [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+
 ## Thoughts
 
 - ハルシネーションもあるので、「90 点の出来で OK なものは LLM」、「91 点以上それ以上必要なものにはまだ使えない」みたいな形は実感としてもあり得そう。
